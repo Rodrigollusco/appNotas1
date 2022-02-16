@@ -1,0 +1,14 @@
+[
+  {
+    "Titulo": "Ir al gimnasio",
+    "Estado": "Pendiente"
+  },
+  {
+    "Titulo": "Mantenimiento a la computadora",
+    "Estado": "En proceso"
+  },
+  {
+    "Titulo": "Pasear al perro",
+    "Estado": "Terminada"
+  }
+]
